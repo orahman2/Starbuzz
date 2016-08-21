@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UITestProject</string>
+    <string name="welcome_message">Thanks for choosing our awesome blend tea. How do you want it serving?</string>
+    <string name="temperature">Temperature</string>
+    <string name="hot">HOT</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+    <string name="starbuzz_logo">starbuzz logo</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
